@@ -4,11 +4,11 @@ using UnityEngine;
 
 public class ClickHandler : MonoBehaviour {
 
-    public Sprite sprite;
-    public SpriteRenderer sRend;
+    public GameObject bombLit;
 
     private void OnMouseUpAsButton()
     {
-        sRend.sprite = sprite;
+        Destroy(this.gameObject);
+        Instantiate(bombLit, this.transform.position, this.transform.rotation);
     }
 }

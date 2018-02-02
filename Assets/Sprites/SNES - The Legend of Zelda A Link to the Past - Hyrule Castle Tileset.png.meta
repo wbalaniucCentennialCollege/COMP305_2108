@@ -1,0 +1,3922 @@
+fileFormatVersion: 2
+guid: a2750a0a7b44c594f9d23195e7fc7ddd
+timeCreated: 1517510313
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_0
+    21300002: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_1
+    21300004: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_2
+    21300006: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_3
+    21300008: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_4
+    21300010: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_5
+    21300012: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_6
+    21300014: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_7
+    21300016: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_8
+    21300018: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_9
+    21300020: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_10
+    21300022: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_11
+    21300024: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_12
+    21300026: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_13
+    21300028: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_14
+    21300030: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_15
+    21300032: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_16
+    21300034: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_17
+    21300036: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_18
+    21300038: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_19
+    21300040: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_20
+    21300042: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_21
+    21300044: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_22
+    21300046: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_23
+    21300048: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_24
+    21300050: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_25
+    21300052: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_26
+    21300054: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_27
+    21300056: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_28
+    21300058: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_29
+    21300060: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_30
+    21300062: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_31
+    21300064: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_32
+    21300066: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_33
+    21300068: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_34
+    21300070: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_35
+    21300072: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_36
+    21300074: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_37
+    21300076: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_38
+    21300078: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_39
+    21300080: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_40
+    21300082: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_41
+    21300084: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_42
+    21300086: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_43
+    21300088: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_44
+    21300090: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_45
+    21300092: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_46
+    21300094: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_47
+    21300096: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_48
+    21300098: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_49
+    21300100: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_50
+    21300102: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_51
+    21300104: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_52
+    21300106: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_53
+    21300108: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_54
+    21300110: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_55
+    21300112: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_56
+    21300114: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_57
+    21300116: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_58
+    21300118: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_59
+    21300120: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_60
+    21300122: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_61
+    21300124: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_62
+    21300126: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_63
+    21300128: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_64
+    21300130: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_65
+    21300132: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_66
+    21300134: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_67
+    21300136: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_68
+    21300138: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_69
+    21300140: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_70
+    21300142: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_71
+    21300144: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_72
+    21300146: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_73
+    21300148: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_74
+    21300150: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_75
+    21300152: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_76
+    21300154: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_77
+    21300156: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_78
+    21300158: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_79
+    21300160: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_80
+    21300162: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_81
+    21300164: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_82
+    21300166: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_83
+    21300168: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_84
+    21300170: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_85
+    21300172: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_86
+    21300174: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_87
+    21300176: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_88
+    21300178: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_89
+    21300180: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_90
+    21300182: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_91
+    21300184: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_92
+    21300186: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_93
+    21300188: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_94
+    21300190: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_95
+    21300192: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_96
+    21300194: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_97
+    21300196: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_98
+    21300198: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_99
+    21300200: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_100
+    21300202: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_101
+    21300204: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_102
+    21300206: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_103
+    21300208: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_104
+    21300210: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_105
+    21300212: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_106
+    21300214: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_107
+    21300216: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_108
+    21300218: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_109
+    21300220: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_110
+    21300222: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_111
+    21300224: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_112
+    21300226: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_113
+    21300228: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_114
+    21300230: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_115
+    21300232: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_116
+    21300234: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_117
+    21300236: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_118
+    21300238: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_119
+    21300240: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_120
+    21300242: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_121
+    21300244: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_122
+    21300246: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_123
+    21300248: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_124
+    21300250: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_125
+    21300252: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_126
+    21300254: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_127
+    21300256: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_128
+    21300258: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_129
+    21300260: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_130
+    21300262: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_131
+    21300264: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_132
+    21300266: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_133
+    21300268: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_134
+    21300270: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_135
+    21300272: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_136
+    21300274: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_137
+    21300276: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_138
+    21300278: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_139
+    21300280: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_140
+    21300282: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_141
+    21300284: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_142
+    21300286: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_143
+    21300288: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_144
+    21300290: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_145
+    21300292: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_146
+    21300294: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_147
+    21300296: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_148
+    21300298: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_149
+    21300300: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_150
+    21300302: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_151
+    21300304: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_152
+    21300306: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_153
+    21300308: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_154
+    21300310: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_155
+    21300312: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_156
+    21300314: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_157
+    21300316: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_158
+    21300318: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_159
+    21300320: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_160
+    21300322: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_161
+    21300324: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_162
+    21300326: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_163
+    21300328: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_164
+    21300330: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_165
+    21300332: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_166
+    21300334: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_167
+    21300336: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_168
+    21300338: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_169
+    21300340: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_170
+    21300342: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_171
+    21300344: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_172
+    21300346: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_173
+    21300348: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_174
+    21300350: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_175
+    21300352: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_176
+    21300354: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_177
+    21300356: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_178
+    21300358: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_179
+    21300360: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_180
+    21300362: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_181
+    21300364: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_182
+    21300366: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_183
+    21300368: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_184
+    21300370: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_185
+    21300372: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_186
+    21300374: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_187
+    21300376: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_188
+    21300378: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_189
+    21300380: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_190
+    21300382: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_191
+    21300384: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_192
+    21300386: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_193
+    21300388: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_194
+    21300390: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_195
+    21300392: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_196
+    21300394: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_197
+    21300396: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_198
+    21300398: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_199
+    21300400: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_200
+    21300402: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_201
+    21300404: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_202
+    21300406: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_203
+    21300408: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_204
+    21300410: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_205
+    21300412: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_206
+    21300414: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_207
+    21300416: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_208
+    21300418: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_209
+    21300420: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_210
+    21300422: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_211
+    21300424: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_212
+    21300426: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_213
+    21300428: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_214
+    21300430: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_215
+    21300432: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_216
+    21300434: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_217
+    21300436: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_218
+    21300438: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_219
+    21300440: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_220
+    21300442: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_221
+    21300444: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_222
+    21300446: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_223
+    21300448: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_224
+    21300450: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_225
+    21300452: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_226
+    21300454: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_227
+    21300456: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_228
+    21300458: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_229
+    21300460: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_230
+    21300462: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_231
+    21300464: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_232
+    21300466: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_233
+    21300468: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_234
+    21300470: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_235
+    21300472: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_236
+    21300474: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_237
+    21300476: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_238
+    21300478: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_239
+    21300480: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_240
+    21300482: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_241
+    21300484: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_242
+    21300486: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_243
+    21300488: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_244
+    21300490: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_245
+    21300492: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_246
+    21300494: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_247
+    21300496: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_248
+    21300498: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_249
+    21300500: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_250
+    21300502: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_251
+    21300504: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_252
+    21300506: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_253
+    21300508: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_254
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_4
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 323
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_5
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_6
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 323
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_8
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 323
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 306
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 306
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_12
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 306
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_13
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 306
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_14
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 306
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 306
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_16
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 306
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_17
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 306
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_18
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 306
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_20
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_21
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_22
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_23
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_24
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_26
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_27
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_28
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 297
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_29
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 297
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_30
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 289
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_32
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_33
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_34
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_35
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_36
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_37
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_38
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_39
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 280
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_40
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 280
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_41
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 280
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_42
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_43
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_44
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 255
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_45
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 255
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_46
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 255
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_47
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 255
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_48
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 255
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_49
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 255
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_50
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 255
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_51
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 255
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_52
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 255
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_53
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 255
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_54
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 255
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_55
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 255
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_56
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 255
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_57
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 238
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_58
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 238
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_59
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_60
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_61
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_62
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_63
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_64
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 246
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_65
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 246
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_66
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_67
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_68
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_69
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 229
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_70
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 229
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_71
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 229
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_72
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 229
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_73
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_74
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_75
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_76
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_77
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_78
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_79
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_80
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_82
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_83
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_84
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_85
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_86
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_87
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_88
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_89
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_90
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_91
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_92
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_93
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_94
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_95
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_96
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_97
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_98
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_100
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_101
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_102
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_103
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_104
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_105
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_106
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_107
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_108
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_109
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_110
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_111
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_112
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_113
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_114
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_115
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_116
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_117
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_118
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_119
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_120
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 153
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_121
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_122
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_123
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_125
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_126
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_127
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 128
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_128
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_129
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_130
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_131
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_132
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_133
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 136
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_134
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_135
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_136
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_137
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_138
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_139
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_140
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_141
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_142
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_143
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_144
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_145
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_146
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_147
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_148
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_149
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_150
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_151
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_152
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 102
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_153
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_154
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_155
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_156
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_157
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_158
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_159
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_160
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_161
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_162
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_163
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_164
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_165
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_166
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 85
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_167
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_168
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 93
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_169
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 93
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_170
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_171
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_172
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_173
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_174
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_175
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_176
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_177
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_178
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_179
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_180
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 68
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_181
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 68
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_182
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_183
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_184
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_185
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_186
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_187
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_188
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_189
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_190
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_191
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_192
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_193
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_194
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_195
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_196
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_197
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_198
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_199
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_200
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_201
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_202
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_203
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_204
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_205
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_206
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_207
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_208
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_209
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_210
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_211
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_212
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_213
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_214
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_215
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_216
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_217
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_218
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_219
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_220
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_221
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_222
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_223
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_224
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_225
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_226
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_227
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_228
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_229
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_230
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_231
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_232
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_233
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_234
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_235
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_236
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_237
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_238
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_239
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_240
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_241
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_242
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_243
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_244
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_245
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_246
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_247
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_248
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_249
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_250
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_251
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_252
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_253
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Hyrule Castle Tileset_254
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
