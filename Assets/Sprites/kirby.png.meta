@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 8a5ca01cff3d67e4f8cbb296105671d6
-timeCreated: 1518116025
+timeCreated: 1518622053
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -26,6 +26,13 @@ TextureImporter:
     21300038: kirby_jump_7
     21300040: kirby_jump_8
     21300042: kirby_jump_9
+    21300044: kirby_attack_0
+    21300046: kirby_attack_1
+    21300048: kirby_attack_2
+    21300050: kirby_attack_3
+    21300052: kirby_attack_4
+    21300054: kirby_attack_5
+    21300056: kirby_attack_6
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -415,6 +422,104 @@ TextureImporter:
         height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kirby_attack_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 425
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kirby_attack_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 426
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kirby_attack_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 426
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kirby_attack_3
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 426
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kirby_attack_4
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 426
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kirby_attack_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 426
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kirby_attack_6
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 426
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
