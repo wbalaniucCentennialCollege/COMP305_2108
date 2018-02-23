@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using UnityEngine.Tilemaps;
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour {
@@ -42,7 +43,7 @@ public class PlayerController : MonoBehaviour {
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundRadius, defineGround);
         animator.SetBool("Ground", isGrounded);
 
-        Debug.Log("Grounded? " + isGrounded);
+        // Debug.Log("Grounded? " + isGrounded);
 
         // Pass vertical velocity to animator
         animator.SetFloat("vSpeed", rBody.velocity.y);
