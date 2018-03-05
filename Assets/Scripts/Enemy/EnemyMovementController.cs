@@ -1,9 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-using UnityEngine.Tilemaps;
 using UnityEngine;
 
-public class TestScript : MonoBehaviour {
+public class EnemyMovementController : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
@@ -12,6 +11,6 @@ public class TestScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        
+		
 	}
 }
