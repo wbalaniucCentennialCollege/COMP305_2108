@@ -16,7 +16,6 @@ public class PlayerController : MonoBehaviour {
     private Animator animator;
 
     private float moveH;
-    private bool isRight = true;
     private bool isGrounded = false;
 
     // Use this for initialization
@@ -28,13 +27,14 @@ public class PlayerController : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if(isGrounded && Input.GetAxis("Jump") > 0)
+		if(isGrounded && Input.GetAxis("Jump") > 0 && rBody.velocity.y == 0)
         {
-            animator.SetBool("Ground", false);
-            rBody.AddForce(new Vector2(0, jumpForce));
             isGrounded = false;
+            animator.SetBool("Ground", isGrounded);
+            rBody.AddForce(new Vector2(0, jumpForce), ForceMode2D.Impulse);
+            
         }
-	}
+    }
 
     // Do not need to use Time.deltaTime()
     void FixedUpdate()
@@ -47,27 +47,25 @@ public class PlayerController : MonoBehaviour {
 
         // Pass vertical velocity to animator
         animator.SetFloat("vSpeed", rBody.velocity.y);
+        
+        // Read input
+        moveH = Input.GetAxis("Horizontal");
 
-        if (isGrounded)
+        // Set speed variable in animator
+        animator.SetFloat("Speed", Mathf.Abs(moveH));
+
+        // Set character velocity
+        rBody.velocity = new Vector2(moveH * maxSpeed, rBody.velocity.y);
+
+        // Check direction and flip sprite
+        if (moveH > 0)
         {
-            // Read input
-            moveH = Input.GetAxis("Horizontal");
-
-            // Set speed variable in animator
-            animator.SetFloat("Speed", Mathf.Abs(moveH));
-
-            // Set character velocity
-            rBody.velocity = new Vector2(moveH * maxSpeed, rBody.velocity.y);
-
-            // Check direction and flip sprite
-            if (moveH > 0)
-            {
-                sRend.flipX = false;
-            }
-            else if (moveH < 0)
-            {
-                sRend.flipX = true;
-            }
+            sRend.flipX = false;
         }
+        else if (moveH < 0)
+        {
+            sRend.flipX = true;
+        }
+        
     }
 }
