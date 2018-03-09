@@ -20,29 +20,29 @@ AnimationClip:
   - curve:
     - time: 0
       value: {fileID: 21300000, guid: f939e0d7a07885a40a03eb619e27ab2e, type: 3}
-    - time: 0.1
+    - time: 0.05
       value: {fileID: 21300000, guid: f811a4bf667e4494c83bba2b6f3b740b, type: 3}
-    - time: 0.2
+    - time: 0.1
       value: {fileID: 21300000, guid: 5c827f9535c0d874580686b0d6a0f3e9, type: 3}
-    - time: 0.3
+    - time: 0.15
       value: {fileID: 21300000, guid: 501c54def61dd0a439acfd4aa38e18ff, type: 3}
-    - time: 0.4
+    - time: 0.2
       value: {fileID: 21300000, guid: f6aa5c0c4a724c34582d5403b6bb08d0, type: 3}
-    - time: 0.5
+    - time: 0.25
       value: {fileID: 21300000, guid: 521d5291f8705624597c62d8b2fd760a, type: 3}
-    - time: 0.6
+    - time: 0.3
       value: {fileID: 21300000, guid: 1715a94ba166f5245b117b962538d55f, type: 3}
-    - time: 0.7
+    - time: 0.35
       value: {fileID: 21300000, guid: 8aa6783588cae554aaf4578ad7c78c0f, type: 3}
-    - time: 0.8
+    - time: 0.4
       value: {fileID: 21300000, guid: 6d40d624c71dd2743b515b6550c7e016, type: 3}
-    - time: 0.9
+    - time: 0.45
       value: {fileID: 21300000, guid: 98d9824f25e710f459bdd12db51af429, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
     script: {fileID: 0}
-  m_SampleRate: 10
+  m_SampleRate: 20
   m_WrapMode: 0
   m_Bounds:
     m_Center: {x: 0, y: 0, z: 0}
@@ -72,7 +72,7 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 1
+    m_StopTime: 0.5
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -93,15 +93,8 @@ AnimationClip:
   m_HasMotionFloatCurves: 0
   m_GenerateMotionCurves: 0
   m_Events:
-  - time: 0.4
-    functionName: CheckAttack
-    data: 
-    objectReferenceParameter: {fileID: 0}
-    floatParameter: 0
-    intParameter: 0
-    messageOptions: 0
-  - time: 1
-    functionName: DisableAttack
+  - time: 0.5
+    functionName: ResetAtttack
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0

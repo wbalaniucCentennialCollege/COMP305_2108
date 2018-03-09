@@ -21,7 +21,7 @@ GameObject:
   - component: {fileID: 224161110328388316}
   - component: {fileID: 222723975268348482}
   - component: {fileID: 114408590580772324}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Fill
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36,7 +36,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 224761762123979514}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Fill Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -57,7 +57,7 @@ GameObject:
   - component: {fileID: 70295612200042930}
   - component: {fileID: 114311340334962366}
   - component: {fileID: 61244034699833616}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: ZombieM
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -75,7 +75,7 @@ GameObject:
   - component: {fileID: 223873116186903052}
   - component: {fileID: 114916181447845360}
   - component: {fileID: 114483392998836052}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: HealthCanvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -92,7 +92,7 @@ GameObject:
   - component: {fileID: 224392009798632632}
   - component: {fileID: 222473385616415478}
   - component: {fileID: 114915791998271026}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -108,7 +108,7 @@ GameObject:
   m_Component:
   - component: {fileID: 224125450069731164}
   - component: {fileID: 114093661487058116}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}

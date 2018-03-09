@@ -14,7 +14,9 @@ public class CameraFollowFixedY : MonoBehaviour {
 
     // Update is called once per frame
     void Update () {
-        this.transform.position = new Vector3(playerPos.position.x, transform.position.y, transform.position.z);
+        if (playerPos != null)
+        {
+            this.transform.position = new Vector3(playerPos.position.x, transform.position.y, transform.position.z);
+        }
     }
-
 }

@@ -4,39 +4,46 @@ using UnityEngine;
 
 public class PlayerAttack : MonoBehaviour {
 
-    public GameObject attackCheck;
+    public float weaponDamage = 5.0f;
+
+    public Transform attackCheck;
+    public float attackCheckRadius = 0.2f;
+    public LayerMask defineAttack;
 
     private Animator animator;
+    private Collider2D col;
+    private bool isAttacking = false;
 
 	// Use this for initialization
 	void Start () {
-        attackCheck.SetActive(false);
+        animator = GetComponent<Animator>();
 	}
 
     void Update()
     {
-        if(Input.GetAxis("Fire1") > 0)
+        if(Input.GetAxis("Fire1") > 0 && !isAttacking)
         {
+            isAttacking = true;
             animator.SetTrigger("Attack");
+
+            col = Physics2D.OverlapCircle(attackCheck.position, 0.2f, defineAttack);
+
+            if(col != null && col.tag == "Enemy")
+            {
+                Debug.Log("Enemy Hit");
+                col.GetComponent<EnemyHealth>().Damage(weaponDamage);
+            }
         }
     }
 
-    void CheckAttack()
+    public void ResetAtttack()
     {
-        attackCheck.SetActive(true);
+        isAttacking = false;
     }
 
-    void DisableAttack()
+    private void OnDrawGizmos()
     {
-        attackCheck.SetActive(false);
-    }
-
-    void OnTriggerStay2D(Collider2D other)
-    {
-        if(other.tag == "Enemy")
-        {
-            // Do damage
-            DisableAttack();
-        }
+        Gizmos.color = Color.green;
+        Gizmos.DrawWireSphere(attackCheck.position, attackCheckRadius);
     }
 }

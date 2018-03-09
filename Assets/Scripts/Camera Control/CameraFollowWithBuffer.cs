@@ -19,13 +19,16 @@ public class CameraFollowWithBuffer : MonoBehaviour {
     // Update is called once per frame
     void Update()
     {
-        if(playerPos.position.x < transform.position.x - (0.5f * cameraSafeOffsetSize))
+        if (playerPos != null)
         {
-            this.transform.position = new Vector3(playerPos.position.x + (0.5f * cameraSafeOffsetSize), transform.position.y, transform.position.z);
-        }
-        else if (playerPos.position.x > transform.position.x + (0.5f * cameraSafeOffsetSize))
-        {
-            this.transform.position = new Vector3(playerPos.position.x - (0.5f * cameraSafeOffsetSize), transform.position.y, transform.position.z);
+            if (playerPos.position.x < transform.position.x - (0.5f * cameraSafeOffsetSize))
+            {
+                this.transform.position = new Vector3(playerPos.position.x + (0.5f * cameraSafeOffsetSize), transform.position.y, transform.position.z);
+            }
+            else if (playerPos.position.x > transform.position.x + (0.5f * cameraSafeOffsetSize))
+            {
+                this.transform.position = new Vector3(playerPos.position.x - (0.5f * cameraSafeOffsetSize), transform.position.y, transform.position.z);
+            }
         }
     }
 

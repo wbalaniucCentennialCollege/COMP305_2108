@@ -7,8 +7,10 @@ public class EnemyHealth : MonoBehaviour {
 
     public float maxHealth;
     public float CurrentHealth { get; set; }
-
     public Slider healthBar;
+
+    public int scoreValue = 10; // 10 Points
+    public ScoreController scoreCont;
 
     // Use this for initialization
     void Start () {
@@ -16,7 +18,7 @@ public class EnemyHealth : MonoBehaviour {
 	}
 	
 	// Update is called once per frame
-	void Damage(float damageAmt) {
+	public void Damage(float damageAmt) {
         CurrentHealth -= damageAmt;
         UpdateHealth();
 	}
@@ -31,6 +33,7 @@ public class EnemyHealth : MonoBehaviour {
 
     void Die()
     {
+        scoreCont.UpdateScore(scoreValue);
         Destroy(this.gameObject);
     }
 }
