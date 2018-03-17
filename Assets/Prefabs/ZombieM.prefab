@@ -55,8 +55,8 @@ GameObject:
   - component: {fileID: 50782628349804244}
   - component: {fileID: 95179756132691900}
   - component: {fileID: 70295612200042930}
-  - component: {fileID: 114311340334962366}
   - component: {fileID: 61244034699833616}
+  - component: {fileID: 114311340334962366}
   m_Layer: 11
   m_Name: ZombieM
   m_TagString: Enemy
@@ -267,6 +267,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxHealth: 20
   healthBar: {fileID: 114093661487058116}
+  scoreValue: 10
+  scoreCont: {fileID: 0}
 --- !u!114 &114408590580772324
 MonoBehaviour:
   m_ObjectHideFlags: 1

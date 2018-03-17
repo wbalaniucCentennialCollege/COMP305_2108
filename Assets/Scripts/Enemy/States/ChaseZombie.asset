@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6be99720a4ef5ba4b9af472b484024b1, type: 3}
+  m_Name: ChaseZombie
+  m_EditorClassIdentifier: 
+  actions:
+  - {fileID: 11400000, guid: 383c0ec4211ca3c468ceeac4b4621aa5, type: 2}
+  transitions:
+  - decision: {fileID: 11400000, guid: 4ccdec516a00d1045a2bdfcfe6062e89, type: 2}
+    trueState: {fileID: 11400000, guid: 974cf5462d27cf242916ec68c73d8b87, type: 2}
+    falseState: {fileID: 11400000, guid: b2de43039fdf8874289232343fba184e, type: 2}
+  - decision: {fileID: 11400000, guid: 9a74d7f591b92cc459721cc603faf7dc, type: 2}
+    trueState: {fileID: 11400000, guid: a6ba24369b8abe54c80dbb12b57eafab, type: 2}
+    falseState: {fileID: 11400000, guid: 974cf5462d27cf242916ec68c73d8b87, type: 2}
+  sceneGizmoColour: {r: 0.986207, g: 1, b: 0, a: 1}

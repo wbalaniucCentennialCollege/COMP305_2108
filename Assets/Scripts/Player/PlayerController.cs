@@ -17,6 +17,7 @@ public class PlayerController : MonoBehaviour {
 
     private float moveH;
     private bool isGrounded = false;
+    private bool isRight = true;
 
     // Use this for initialization
     void Start () {
@@ -58,14 +59,23 @@ public class PlayerController : MonoBehaviour {
         rBody.velocity = new Vector2(moveH * maxSpeed, rBody.velocity.y);
 
         // Check direction and flip sprite
-        if (moveH > 0)
+        if (rBody.velocity.x > 0 && !isRight)
         {
-            sRend.flipX = false;
+            Flip();
         }
-        else if (moveH < 0)
+        else if (rBody.velocity.x < 0 && isRight)
         {
-            sRend.flipX = true;
+            Flip();
         }
-        
+
+    }
+
+    private void Flip()
+    {
+        isRight = !isRight;
+
+        Vector3 temp = this.transform.localScale;
+        temp.x *= -1;
+        this.transform.localScale = temp;
     }
 }

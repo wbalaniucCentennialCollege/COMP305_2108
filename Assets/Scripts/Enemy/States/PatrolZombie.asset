@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6be99720a4ef5ba4b9af472b484024b1, type: 3}
+  m_Name: PatrolZombie
+  m_EditorClassIdentifier: 
+  actions:
+  - {fileID: 11400000, guid: 124cb69e04085a64aa4b194a95e57914, type: 2}
+  transitions:
+  - decision: {fileID: 11400000, guid: 4ccdec516a00d1045a2bdfcfe6062e89, type: 2}
+    trueState: {fileID: 11400000, guid: a84e760807c22b84a9cefcc860842955, type: 2}
+    falseState: {fileID: 11400000, guid: 974cf5462d27cf242916ec68c73d8b87, type: 2}
+  sceneGizmoColour: {r: 0.11724126, g: 1, b: 0, a: 1}
