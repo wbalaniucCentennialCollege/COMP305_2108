@@ -9,14 +9,17 @@ public class PlayerAttack : MonoBehaviour {
     public Transform attackCheck;
     public float attackCheckRadius = 0.2f;
     public LayerMask defineAttack;
+    public AudioClip swordSwing;
 
     private Animator animator;
     private Collider2D col;
     private bool isAttacking = false;
+    private AudioSource audioSource;
 
 	// Use this for initialization
 	void Start () {
         animator = GetComponent<Animator>();
+        audioSource = GetComponent<AudioSource>();
 	}
 
     void Update()
@@ -25,12 +28,15 @@ public class PlayerAttack : MonoBehaviour {
         {
             isAttacking = true;
             animator.SetTrigger("Attack");
+            
+            audioSource.clip = swordSwing;
+            audioSource.Play();
 
             col = Physics2D.OverlapCircle(attackCheck.position, 0.2f, defineAttack);
 
             if(col != null && col.tag == "Enemy")
             {
-                Debug.Log("Enemy Hit");
+                // Debug.Log("Enemy Hit");
                 col.GetComponent<EnemyHealth>().Damage(weaponDamage);
             }
         }

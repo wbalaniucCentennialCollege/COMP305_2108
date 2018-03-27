@@ -3,6 +3,14 @@ using System.Collections.Generic;
 using UnityEngine.Tilemaps;
 using UnityEngine;
 
+[System.Serializable]
+public class PlayerMovementAudio
+{
+    public AudioClip jump;
+    public AudioClip walk;
+    public AudioClip death;
+}
+
 public class PlayerController : MonoBehaviour {
 
     public float maxSpeed = 10;
@@ -10,6 +18,7 @@ public class PlayerController : MonoBehaviour {
     public float groundRadius = 0.2f;
     public Transform groundCheck;
     public LayerMask defineGround;
+    public PlayerMovementAudio moveAudio;
 
     private Rigidbody2D rBody;
     private SpriteRenderer sRend;

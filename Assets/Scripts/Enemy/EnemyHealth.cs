@@ -12,14 +12,21 @@ public class EnemyHealth : MonoBehaviour {
     public int scoreValue = 10; // 10 Points
     public ScoreController scoreCont;
 
+    public AudioClip damageAudio;
+
+    private AudioSource audioSource;
+
     // Use this for initialization
     void Start () {
+        audioSource = GetComponent<AudioSource>();
         CurrentHealth = maxHealth;
 	}
 	
 	// Update is called once per frame
 	public void Damage(float damageAmt) {
         CurrentHealth -= damageAmt;
+        audioSource.clip = damageAudio;
+        audioSource.Play();
         UpdateHealth();
 	}
 
