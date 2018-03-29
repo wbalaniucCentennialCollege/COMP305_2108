@@ -8,7 +8,6 @@ public class PlayerAttack : MonoBehaviour {
 
     private Animator animator;
     private Collider2D col;
-    private bool isAttacking = false;
     private AudioSource audioSource;
 
 	// Use this for initialization
@@ -21,10 +20,8 @@ public class PlayerAttack : MonoBehaviour {
 
     void Update()
     {
-        if(Input.GetAxis("Fire1") > 0 && !isAttacking)
+        if (Input.GetAxis("Fire1") > 0 && !animator.GetBool("Attack"))
         {
-            isAttacking = true;
-            animator.SetBool("isAttacking", isAttacking);
             animator.SetTrigger("Attack");
             
             audioSource.clip = stats.swordSwing[0];
@@ -43,11 +40,6 @@ public class PlayerAttack : MonoBehaviour {
 
     public void ResetAtttack()
     {
-        isAttacking = false;
-    }
-    private void OnDrawGizmos()
-    {
-        Gizmos.color = Color.green;
-        Gizmos.DrawWireSphere(stats.attackCheck.position, stats.attackCheckRadius);
+        animator.ResetTrigger("Attack");
     }
 }
