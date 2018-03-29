@@ -13,7 +13,7 @@ public class ChaseAction : Action
     public void Chase(EnemyStateController controller)
     {
         // Chase the player
-        Vector2 walkVector = Vector2.MoveTowards(controller.transform.position, controller.chaseTarget.position, Time.fixedDeltaTime * controller.enemyData.chaseSpeed);
+        Vector2 walkVector = Vector2.MoveTowards(controller.transform.position, controller.chaseTarget.position, Time.fixedDeltaTime * controller.stats.chaseSpeed);
         controller.transform.position = new Vector3(walkVector.x, controller.transform.position.y, controller.transform.position.z);
     }
 }

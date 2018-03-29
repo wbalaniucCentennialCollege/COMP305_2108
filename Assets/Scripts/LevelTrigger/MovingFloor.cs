@@ -5,7 +5,6 @@ using UnityEngine;
 public class MovingFloor : MonoBehaviour {
 
     private float startY;
-    private float endY = 4.0f;
 
     private float speed = 2.0f;
 

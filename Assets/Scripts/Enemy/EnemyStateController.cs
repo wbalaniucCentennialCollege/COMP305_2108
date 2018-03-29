@@ -3,14 +3,18 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class EnemyStateController : MonoBehaviour {
+    [Header("Enemy Stats")]
+    public EnemyStats stats;
 
+    [Header("State Information")]
     public State currentState;
-    public EnemyData enemyData;
-    public Transform eyes;
     public State sameState; // Dummy state to remain in current state;
-    public LayerMask playerLayer;
 
+    [Header("Movement Information")]
+    public Transform eyes;
+    public LayerMask playerLayer;
     public List<Transform> waypoints;
+
     [HideInInspector] public EnemyAttack enemyAttack;
     [HideInInspector] public int nextWaypoint;
     [HideInInspector] public Transform chaseTarget;

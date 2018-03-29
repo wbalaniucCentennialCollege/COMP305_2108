@@ -15,7 +15,7 @@ public class PatrolAction : Action
         // Begin enemy walking
         // controller.transform.position = Vector2.SmoothDamp(controller.transform.position, controller.waypoints[controller.nextWaypoint].position, ref vel, 0.3f, 50.0f, Time.deltaTime);
         // Vector2 walkVector = Vector2.Lerp(controller.transform.position, controller.waypoints[controller.nextWaypoint].position, Time.fixedDeltaTime * 0.5f);
-        Vector2 walkVector = Vector2.MoveTowards(controller.transform.position, controller.waypoints[controller.nextWaypoint].position, Time.fixedDeltaTime * controller.enemyData.patrolSpeed);
+        Vector2 walkVector = Vector2.MoveTowards(controller.transform.position, controller.waypoints[controller.nextWaypoint].position, Time.fixedDeltaTime * controller.stats.patrolSpeed);
         controller.transform.position = new Vector3(walkVector.x, controller.transform.position.y, controller.transform.position.z);
 
         // Determine distance remaining to the target

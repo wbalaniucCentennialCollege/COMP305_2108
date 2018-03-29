@@ -5,42 +5,38 @@ using UnityEngine.UI;
 
 public class EnemyHealth : MonoBehaviour {
 
-    public float maxHealth;
-    public float CurrentHealth { get; set; }
-    public Slider healthBar;
+    [SerializeField] private EnemyStats stats;
+    [SerializeField] private ScoreController scoreCont;
 
-    public int scoreValue = 10; // 10 Points
-    public ScoreController scoreCont;
-
-    public AudioClip damageAudio;
-
+    private float currentHealth;
     private AudioSource audioSource;
 
     // Use this for initialization
     void Start () {
         audioSource = GetComponent<AudioSource>();
-        CurrentHealth = maxHealth;
+        currentHealth = stats.maxHealth;
+        stats.healthBar = transform.GetComponentInChildren<Slider>();
 	}
 	
 	// Update is called once per frame
 	public void Damage(float damageAmt) {
-        CurrentHealth -= damageAmt;
-        audioSource.clip = damageAudio;
+        currentHealth -= damageAmt;
+        audioSource.clip = stats.damagedGrunt[0];
         audioSource.Play();
         UpdateHealth();
 	}
 
     void UpdateHealth()
     {
-        if(CurrentHealth <= 0)
+        if(currentHealth <= 0)
             Die();
 
-        healthBar.value = CurrentHealth / maxHealth;
+        stats.healthBar.value = currentHealth / stats.maxHealth;
     }
 
     void Die()
     {
-        scoreCont.UpdateScore(scoreValue);
+        scoreCont.UpdateScore(stats.scoreValue);
         Destroy(this.gameObject);
     }
 }

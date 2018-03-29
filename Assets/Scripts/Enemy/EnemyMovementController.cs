@@ -3,15 +3,13 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class EnemyMovementController : MonoBehaviour {
-
-    private Rigidbody2D rBody;
+    
     private Animator animator;
     private Vector3 lastPosition;
     private bool isRight = true;
 
     void Start()
     {
-        rBody = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         lastPosition = transform.position;
     }

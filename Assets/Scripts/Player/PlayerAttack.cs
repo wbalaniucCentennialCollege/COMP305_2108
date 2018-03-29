@@ -4,12 +4,7 @@ using UnityEngine;
 
 public class PlayerAttack : MonoBehaviour {
 
-    public float weaponDamage = 5.0f;
-
-    public Transform attackCheck;
-    public float attackCheckRadius = 0.2f;
-    public LayerMask defineAttack;
-    public AudioClip swordSwing;
+    public PlayerStats stats;
 
     private Animator animator;
     private Collider2D col;
@@ -20,6 +15,8 @@ public class PlayerAttack : MonoBehaviour {
 	void Start () {
         animator = GetComponent<Animator>();
         audioSource = GetComponent<AudioSource>();
+
+        stats.attackCheck = transform.Find("AttackCheck").transform; 
 	}
 
     void Update()
@@ -27,17 +24,19 @@ public class PlayerAttack : MonoBehaviour {
         if(Input.GetAxis("Fire1") > 0 && !isAttacking)
         {
             isAttacking = true;
+            animator.SetBool("isAttacking", isAttacking);
             animator.SetTrigger("Attack");
             
-            audioSource.clip = swordSwing;
+            audioSource.clip = stats.swordSwing[0];
             audioSource.Play();
 
-            col = Physics2D.OverlapCircle(attackCheck.position, 0.2f, defineAttack);
+            col = Physics2D.OverlapCircle(stats.attackCheck.position, 0.2f, stats.defineAttack);
+            
 
             if(col != null && col.tag == "Enemy")
             {
                 // Debug.Log("Enemy Hit");
-                col.GetComponent<EnemyHealth>().Damage(weaponDamage);
+                col.GetComponent<EnemyHealth>().Damage(stats.attackDamage);
             }
         }
     }
@@ -46,10 +45,9 @@ public class PlayerAttack : MonoBehaviour {
     {
         isAttacking = false;
     }
-
     private void OnDrawGizmos()
     {
         Gizmos.color = Color.green;
-        Gizmos.DrawWireSphere(attackCheck.position, attackCheckRadius);
+        Gizmos.DrawWireSphere(stats.attackCheck.position, stats.attackCheckRadius);
     }
 }

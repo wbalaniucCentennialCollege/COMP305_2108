@@ -11,11 +11,41 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e53d8ce131c94348b39fcfd05f094ae, type: 3}
   m_Name: ZombieStats
   m_EditorClassIdentifier: 
+  scoreValue: 10
+  generalGrunt:
+  - {fileID: 8300000, guid: 1068baa698779dd45b201ca34c4ccc70, type: 3}
+  - {fileID: 8300000, guid: 102ec639eec9c214abe4b381c139fe4b, type: 3}
+  - {fileID: 8300000, guid: dc07ffaa9b011ea45bed3a35e5206717, type: 3}
+  - {fileID: 8300000, guid: ceae18db288a9ec4a812f54ef6cf0a98, type: 3}
+  - {fileID: 8300000, guid: 0392d9a464c40d74f823221730e49b0c, type: 3}
+  attackGrunt:
+  - {fileID: 8300000, guid: 81d0e4e8973166941b7f135b4edcaca3, type: 3}
+  - {fileID: 8300000, guid: 40a6d67b05a6fdf4aae09116db95a1f2, type: 3}
+  - {fileID: 8300000, guid: 8163a25c50eb7aa41af026daaffad223, type: 3}
+  - {fileID: 8300000, guid: 75f3de11280141a49b4111730ad10f36, type: 3}
+  - {fileID: 8300000, guid: b3e9606e822e79c41a870828562d3625, type: 3}
+  - {fileID: 8300000, guid: 7946cb72d45a3134a89ad3744874e37f, type: 3}
+  - {fileID: 8300000, guid: d285c10c1b4c94f44a1751566f5fc295, type: 3}
+  - {fileID: 8300000, guid: dd9814b99e38d674aae5919cef0ccc69, type: 3}
+  damagedGrunt:
+  - {fileID: 8300000, guid: 84cd655be587d7545a0ec03ec0eae110, type: 3}
+  - {fileID: 8300000, guid: ed3c8683e00b655438b456cabea3e492, type: 3}
+  - {fileID: 8300000, guid: ac838760d7b845345b89124faa787c79, type: 3}
+  - {fileID: 8300000, guid: e2f81c1e1776c764ea3b4b141e681690, type: 3}
+  - {fileID: 8300000, guid: 3a8bda2bc8f8d8f4981a6a16b3cb4f39, type: 3}
+  - {fileID: 8300000, guid: 50cd2b2a22d097b49ac14f2aa6c337df, type: 3}
+  - {fileID: 8300000, guid: 0d215585c8c5d8f438f2ad71afa1ab24, type: 3}
+  - {fileID: 8300000, guid: eb5901fe45cefd54aa816b8a32aa8556, type: 3}
+  - {fileID: 8300000, guid: bed3a0411d2722a44bcbfdf09705a0a0, type: 3}
+  - {fileID: 8300000, guid: a9b209ca49319554d822c95c761c786b, type: 3}
+  - {fileID: 8300000, guid: 6349eda0cc19ca641bf23749a009f1bc, type: 3}
+  - {fileID: 8300000, guid: e3532f7e281039a4e837a871e3072ab8, type: 3}
+  maxHealth: 20
+  healthBar: {fileID: 0}
   moveSpeed: 1
-  lookRange: 20
-  patrolSpeed: 0.5
+  patrolSpeed: 1
   chaseRange: 10
-  chaseSpeed: 1
+  chaseSpeed: 2
   attackRange: 0.25
   attackRate: 1
   attackDamage: 5

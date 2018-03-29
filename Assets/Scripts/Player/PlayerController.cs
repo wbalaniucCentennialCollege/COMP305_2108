@@ -3,36 +3,26 @@ using System.Collections.Generic;
 using UnityEngine.Tilemaps;
 using UnityEngine;
 
-[System.Serializable]
-public class PlayerMovementAudio
-{
-    public AudioClip jump;
-    public AudioClip walk;
-    public AudioClip death;
-}
 
 public class PlayerController : MonoBehaviour {
 
-    public float maxSpeed = 10;
-    public float jumpForce = 700f;
-    public float groundRadius = 0.2f;
-    public Transform groundCheck;
-    public LayerMask defineGround;
-    public PlayerMovementAudio moveAudio;
+    public PlayerStats stats;
 
     private Rigidbody2D rBody;
-    private SpriteRenderer sRend;
     private Animator animator;
 
     private float moveH;
+    private float distToGround;
     private bool isGrounded = false;
     private bool isRight = true;
 
     // Use this for initialization
     void Start () {
         rBody = GetComponent<Rigidbody2D>();
-        sRend = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
+
+        distToGround = GetComponent<Collider2D>().bounds.extents.y;
+        stats.groundCheck = transform.Find("GroundCheck").transform;
 	}
 	
 	// Update is called once per frame
@@ -41,7 +31,7 @@ public class PlayerController : MonoBehaviour {
         {
             isGrounded = false;
             animator.SetBool("Ground", isGrounded);
-            rBody.AddForce(new Vector2(0, jumpForce), ForceMode2D.Impulse);
+            rBody.AddForce(new Vector2(0, stats.jumpForce), ForceMode2D.Impulse);
             
         }
     }
@@ -50,7 +40,8 @@ public class PlayerController : MonoBehaviour {
     void FixedUpdate()
     {
         // Checks whether character is grounded
-        isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundRadius, defineGround);
+        // isGrounded = Physics2D.OverlapCircle(stats.groundCheck.position, stats.groundRadius, stats.defineGround);
+        isGrounded = CheckIsGrounded();
         animator.SetBool("Ground", isGrounded);
 
         // Debug.Log("Grounded? " + isGrounded);
@@ -65,7 +56,7 @@ public class PlayerController : MonoBehaviour {
         animator.SetFloat("Speed", Mathf.Abs(moveH));
 
         // Set character velocity
-        rBody.velocity = new Vector2(moveH * maxSpeed, rBody.velocity.y);
+        rBody.velocity = new Vector2(moveH * stats.walkSpeed, rBody.velocity.y);
 
         // Check direction and flip sprite
         if (rBody.velocity.x > 0 && !isRight)
@@ -87,4 +78,11 @@ public class PlayerController : MonoBehaviour {
         temp.x *= -1;
         this.transform.localScale = temp;
     }
+
+
+    private bool CheckIsGrounded()
+    {
+        return Physics2D.Raycast(transform.position, -Vector3.up, distToGround + 0.1f, stats.defineGround);
+    }
+
 }
