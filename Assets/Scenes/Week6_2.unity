@@ -288,7 +288,7 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 246201110}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1b87aba7bb11eab4cb4ae9dea257ae01, type: 3}
   m_Name: 
@@ -4530,6 +4530,23 @@ Prefab:
       propertyPath: scoreCont
       value: 
       objectReference: {fileID: 1936424799}
+    - target: {fileID: 114311340334962366, guid: 4545d3b6f8fca774ab93ccaf25aea955,
+        type: 2}
+      propertyPath: stats
+      value: 
+      objectReference: {fileID: 11400000, guid: 004879808953d4b4699e51b78050c1ba,
+        type: 2}
+    - target: {fileID: 114493857827024838, guid: 4545d3b6f8fca774ab93ccaf25aea955,
+        type: 2}
+      propertyPath: stats
+      value: 
+      objectReference: {fileID: 11400000, guid: 004879808953d4b4699e51b78050c1ba,
+        type: 2}
+    - target: {fileID: 50782628349804244, guid: 4545d3b6f8fca774ab93ccaf25aea955,
+        type: 2}
+      propertyPath: m_Interpolate
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 4545d3b6f8fca774ab93ccaf25aea955, type: 2}
   m_IsPrefabParent: 0

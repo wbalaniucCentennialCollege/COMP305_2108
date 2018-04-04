@@ -16,6 +16,7 @@ public class EnemyStateController : MonoBehaviour {
     public List<Transform> waypoints;
 
     [HideInInspector] public EnemyAttack enemyAttack;
+    [HideInInspector] public EnemyMovementController enemyMovementController;
     [HideInInspector] public int nextWaypoint;
     [HideInInspector] public Transform chaseTarget;
     [HideInInspector] public float stateTimeElapsed;
@@ -24,7 +25,9 @@ public class EnemyStateController : MonoBehaviour {
     {
         // waypoints = new List<Transform>();
         enemyAttack = GetComponent<EnemyAttack>();
+        enemyMovementController = GetComponent<EnemyMovementController>();
     }
+
 
     void Update()
     {
@@ -36,6 +39,9 @@ public class EnemyStateController : MonoBehaviour {
         if(nextState != sameState)
         {
             currentState = nextState;
+
+            // Initialize state
+            currentState.InitState(this);
         }
     }
 

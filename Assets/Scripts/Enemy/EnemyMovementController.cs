@@ -8,27 +8,37 @@ public class EnemyMovementController : MonoBehaviour {
     private Vector3 lastPosition;
     private bool isRight = true;
 
+    private Vector2 forwardVector;
+
+    private Rigidbody2D rBody;
+
     void Start()
     {
         animator = GetComponent<Animator>();
-        lastPosition = transform.position;
+        rBody = GetComponent<Rigidbody2D>();
     }
 
     void Update()
     {
-        Vector2 velocity = lastPosition - this.transform.position;
-
-        if (velocity.x > 0 && isRight)
+        if (rBody.velocity.x > 0 && !isRight)
         {
             Flip();
-        } else if (velocity.x < 0 && !isRight)
+        } else if (rBody.velocity.x < 0 && isRight)
         {
             Flip();
         }
         
-        animator.SetFloat("Speed", Mathf.Abs(velocity.x));
-    
-        lastPosition = this.transform.position;
+        animator.SetFloat("Speed", Mathf.Abs(rBody.velocity.x));
+    }
+
+    public void Move(Vector3 target)
+    {
+        // Rotate player towards the target
+        forwardVector = target - transform.position;
+        forwardVector.Normalize();
+
+        // Move towards the target
+        rBody.velocity = forwardVector * 2.0f;
     }
 
     private void Flip()

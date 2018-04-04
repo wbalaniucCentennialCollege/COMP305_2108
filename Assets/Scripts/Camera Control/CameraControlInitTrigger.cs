@@ -12,13 +12,19 @@ public class CameraControlInitTrigger : MonoBehaviour {
 	void Start () {
         cfwb = GetComponent<CameraFollowWithBuffer>();
 	}
-	
-	// Update is called once per frame
-	void Update () {
+
+    // Update is called once per frame
+    void Update()
+    {
         if (playerPosition.position.x > transform.position.x - (0.5f * cfwb.cameraSafeOffsetSize))
         {
             cfwb.enabled = true;
             this.enabled = false;
         }
-	}
+
+        if(transform.position.x < 0.0f)
+        {
+            transform.position = new Vector3(0, transform.position.y, transform.position.z);
+        }
+    }
 }

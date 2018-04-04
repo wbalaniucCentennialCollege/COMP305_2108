@@ -9,6 +9,15 @@ public class State : ScriptableObject
     public Transition[] transitions;
     public Color sceneGizmoColour = Color.grey;
 
+    // Initialization function for a state
+    public void InitState(EnemyStateController controller)
+    {
+        for(int i = 0; i < actions.Length; i++)
+        {
+            actions[i].Init(controller);
+        }
+    }
+
     public void UpdateState(EnemyStateController controller)
     {
         // Evaluate each actions and decisions

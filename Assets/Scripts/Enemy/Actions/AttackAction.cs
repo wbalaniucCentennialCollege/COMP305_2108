@@ -5,6 +5,10 @@ using UnityEngine;
 [CreateAssetMenu (menuName = "PluggableAI/Actions/Attack")]
 public class AttackAction : Action {
 
+    public override void Init(EnemyStateController controller)
+    {
+    }
+
     public override void Act(EnemyStateController controller)
     {
         Attack(controller);
