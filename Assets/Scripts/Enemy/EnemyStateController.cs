@@ -26,6 +26,7 @@ public class EnemyStateController : MonoBehaviour {
         // waypoints = new List<Transform>();
         enemyAttack = GetComponent<EnemyAttack>();
         enemyMovementController = GetComponent<EnemyMovementController>();
+        currentState.InitState(this);
     }
 
 

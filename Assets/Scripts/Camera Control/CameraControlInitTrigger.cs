@@ -16,7 +16,7 @@ public class CameraControlInitTrigger : MonoBehaviour {
     // Update is called once per frame
     void Update()
     {
-        if (playerPosition.position.x > transform.position.x - (0.5f * cfwb.cameraSafeOffsetSize))
+        if (playerPosition.position.x > transform.position.x - (0.5f * cfwb.cameraSafeOffsetSizeX))
         {
             cfwb.enabled = true;
             this.enabled = false;

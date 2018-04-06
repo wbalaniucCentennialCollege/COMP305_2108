@@ -5,7 +5,6 @@ using UnityEngine;
 public class EnemyMovementController : MonoBehaviour {
     
     private Animator animator;
-    private Vector3 lastPosition;
     private bool isRight = true;
 
     private Vector2 forwardVector;
@@ -20,6 +19,7 @@ public class EnemyMovementController : MonoBehaviour {
 
     void Update()
     {
+
         if (rBody.velocity.x > 0 && !isRight)
         {
             Flip();
