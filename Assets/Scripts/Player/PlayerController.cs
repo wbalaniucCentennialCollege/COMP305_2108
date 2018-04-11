@@ -85,4 +85,15 @@ public class PlayerController : MonoBehaviour {
         return Physics2D.Raycast(transform.position, -Vector3.up, distToGround + 0.1f, stats.defineGround);
     }
 
+    public void Die()
+    {
+        Debug.Log("Player dead");
+        // Play death animation
+        animator.SetBool("isDead", true);
+    }
+
+    public void ResetDeathAnim()
+    {
+        animator.SetBool("isDead", false);
+    }
 }

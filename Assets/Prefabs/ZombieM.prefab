@@ -178,7 +178,7 @@ Rigidbody2D:
   m_AngularDrag: 0.05
   m_GravityScale: 1
   m_Material: {fileID: 0}
-  m_Interpolate: 0
+  m_Interpolate: 1
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
@@ -380,6 +380,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   stats: {fileID: 11400000, guid: 004879808953d4b4699e51b78050c1ba, type: 2}
+  scoreCont: {fileID: 0}
 --- !u!114 &114408590580772324
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -456,6 +457,7 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   enemyAttack: {fileID: 0}
+  enemyMovementController: {fileID: 0}
   nextWaypoint: 0
   chaseTarget: {fileID: 0}
   stateTimeElapsed: 0
